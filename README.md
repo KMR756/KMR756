@@ -39,7 +39,7 @@ Passionate MERN Stack Developer with 2+ years experience in building scalable we
 ## Find me on  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/km-rejoan-tanjim)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/km-rejoan-tanjim)  
+[![Facebook](https://www.facebook.com/km.rahat.814194/)  
 
 ---
 
