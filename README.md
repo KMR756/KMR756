@@ -43,6 +43,3 @@ Passionate MERN Stack Developer with 2+ years experience in building scalable we
 
 ---
 
-## GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=km-rejoan-tanjim&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km-rejoan-tanjim&layout=compact&theme=radical)
