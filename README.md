@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co.com/zVxXHgTN/1718210429417.jpg)
 
 # KM Rejoan Tanjim
-### MERN Stack Developer | Full Stack Web Developer
+### JavaScript Development | Web Design and Development | MERN stack developer
 
 ---
 
@@ -13,7 +13,6 @@ Passionate MERN Stack Developer with 2+ years experience in building scalable we
 
 ## Current Activities
 - Exploring Next.js framework.
-- Working on a tourism website project.
 - Learning advanced React patterns and hooks.
 
 ---
