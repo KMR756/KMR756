@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner]([https://your-image-link-here.com/banner.png](https://i.ibb.co.com/zVxXHgTN/1718210429417.jpg))
+![Banner](https://i.ibb.co.com/zVxXHgTN/1718210429417.jpg)
 
 # KM Rejoan Tanjim
 ### MERN Stack Developer | Full Stack Web Developer
