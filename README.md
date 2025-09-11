@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;javaScript+developer;Lifelong+Learner+💡" alt="Typing Animation" />
 </p>
 <p align="center">
-  <a href="\https://portfolio-using-react-dun.vercel.app/" target="_blank">
+  <a href="https://portfolio-using-react-dun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/ Visit_My_Portfolio-ff5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
