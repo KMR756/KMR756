@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/zVxXHgTN/1718210429417.jpg)
+![Banner](https://i.ibb.co.com/Cp1hccV2/git-cover.png)
 <h1 align="center">Hi 👋, I'm KM Rejoan Tanjim</h1>
 <h3 align="center">🚀 MERN Stack Developer | Problem Solver | javaScript devloper</h3>
 
