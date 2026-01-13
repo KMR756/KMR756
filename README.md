@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/aa8cb6153b81b9da303c39b0d59fd00c5d9584e3/apps/web/public/logos/nextjs.svg"  width="45" height="45" style="filter: invert(1);" />
+
   
   
   
@@ -43,13 +43,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/aa8cb6153b81b9da303c39b0d59fd00c5d9584e3/apps/web/public/logos/express.dark.svg" width="45" height="45" style="filter: invert(1);" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="45" height="45" />
+ 
 </p>
 
 ### 🗄️ Databases
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
 </p>
 
@@ -81,13 +80,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="https://www.fiverr.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-
-  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
 
 </div>
 
